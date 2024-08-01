@@ -1,4 +1,4 @@
-# Smart Gluco
+# Visionary Glucometer
 
 A mobile application for quickly measuring blood sugar levels through the picture of the eye's retina.
 
